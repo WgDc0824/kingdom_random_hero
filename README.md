@@ -35,7 +35,7 @@ Honor of Kings Random Selector
    [点击这里体验](https://wgdc0824.github.io/kingdom_random_hero/)
 
 2. **操作指南**：  
-   ![操作演示](https://user-images.githubusercontent.com/113437698/236624232-8e3f6e6f-5f7e-4d4d-8f0a-3a3a0f5f5a5e.png)  
+   ![操作演示]([https://user-images.githubusercontent.com/113437698/236624232-8e3f6e6f-5f7e-4d4d-8f0a-3a3a0f5f5a5e.png](https://github.com/WgDc0824/kingdom_random_hero/blob/main/image.jpg))  
    - 点击 **「开始选择」** 启动滚动  
    - 点击 **「暂停」** 确定当前英雄  
    - 已选英雄会从列表中移除并显示在右侧  
