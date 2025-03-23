@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>王者荣耀英雄随机选择器</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- 顶部板块 -->
+    <div class="top-section">
+        <h1>王者荣耀英雄随机选择器</h1>
+        <div class="button-container">
+            <button id="start-button">开始选择</button>
+            <button id="pause-button" disabled>暂停</button>
+        </div>
+    </div>
+    <!-- 中部板块 -->
+    <div class="middle-section">
+        <p id="current-hero">当前英雄: 无</p>
+        <p id="count-info">可选英雄数量: 0  已选英雄数量: 0</p>
+    </div>
+    <!-- 底部板块 -->
+    <div class="bottom-section">
+        <div class="hero-list-container">
+            <h2>可用英雄:</h2>
+            <p id="available-heroes"></p>
+        </div>
+        <div class="hero-list-container">
+            <h2>已选择英雄:</h2>
+            <p id="selected-heroes">无</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>    
