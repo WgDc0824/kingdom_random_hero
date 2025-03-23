@@ -32,7 +32,7 @@ Honor of Kings Random Selector
 
 ## 🚀 使用方法
 1. **直接访问**：  
-   [点击这里体验](https://wangzherongyao.github.io/hero-selector/)（示例链接，请替换为您的实际链接）
+   [点击这里体验](https://wgdc0824.github.io/kingdom_random_hero/)
 
 2. **操作指南**：  
    ![操作演示](https://user-images.githubusercontent.com/113437698/236624232-8e3f6e6f-5f7e-4d4d-8f0a-3a3a0f5f5a5e.png)  
@@ -51,14 +51,14 @@ Honor of Kings Random Selector
    ├── js/
    │   └── script.js    # 交互逻辑
    └── README.md        # 说明文档
-# 克隆项目
-git clone https://github.com/your-username/hero-selector.git
-
-# 开发分支
-git checkout -b feature/new-function
-
-# 提交更改
-git commit -m "Add new feature: xxx"
-
-# 推送并创建 Pull Request
-git push origin feature/new-function
+   # 克隆项目
+   git clone https://github.com/your-username/hero-selector.git
+   
+   # 开发分支
+   git checkout -b feature/new-function
+   
+   # 提交更改
+   git commit -m "Add new feature: xxx"
+   
+   # 推送并创建 Pull Request
+   git push origin feature/new-function
