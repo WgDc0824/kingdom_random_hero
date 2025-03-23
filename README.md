@@ -51,3 +51,14 @@ Honor of Kings Random Selector
    ├── js/
    │   └── script.js    # 交互逻辑
    └── README.md        # 说明文档
+# 克隆项目
+git clone https://github.com/your-username/hero-selector.git
+
+# 开发分支
+git checkout -b feature/new-function
+
+# 提交更改
+git commit -m "Add new feature: xxx"
+
+# 推送并创建 Pull Request
+git push origin feature/new-function
